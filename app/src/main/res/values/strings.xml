@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FragmentQuiz</string>
+    <string name="question">Question</string>
+    <string name="trueText">TRUE</string>
+    <string name="false_text">FALSE</string>
+    <string name="next_text">Next, please</string>
+    <string name="correctToast">Correct</string>
+    <string name="wrongToast">Wrong</string>
+    <string name="question1">There were 3 songs with the original dance in Fortnite.</string>
+    <string name="question2">The John Wick skin was released during season 4.</string>
+    <string name="question3">Shopping carts were the first vehicle added to the game.</string>
+    <string name="question4">The Black Knight was the first top tier battle pass skin.</string>
+    <string name="question5">The most popular place to land was Moisty Myer.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cheat">Cheat</string>
+    <string name="yes_i_want_to_cheat">Yes I want to Cheat</string>
+    <string name="would_you_like_to_get_your_fortnite_account_banned">Would you like to get your Fortnite Account Banned?</string>
+</resources>
